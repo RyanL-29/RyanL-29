@@ -7,8 +7,7 @@ I am Ryan. A junior programmer just graduate. Still need to learn tons of things
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanL-29&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # Get in touch
-[Discord](https://discordapp.com/users/195530162769494016)
-
+<a href="https://discordapp.com/users/195530162769494016"><img height="30" src="https://user-images.githubusercontent.com/48479346/127092527-367cb1e4-699c-4dea-b5a5-94fb1bf20ae2.png"></a>&nbsp;&nbsp;
 
 # Join us
 ![Discord Banner 2](https://discordapp.com/api/guilds/195531567018278913/widget.png?style=banner2)
@@ -28,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
