@@ -4,7 +4,7 @@ I am Ryan. A junior programmer just graduate. Still need to learn tons of things
 
 # GitHub Status
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyanL-29&show_icons=true&theme=tokyonight) </br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanL-29&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanL-29&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # Get in touch
 [Discord](https://discordapp.com/users/195530162769494016)
