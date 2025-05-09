@@ -8,11 +8,6 @@ I am Ryan. A junior programmer just graduate. Still need to learn tons of things
 
 # Get in touch
 <a href="https://discordapp.com/users/195530162769494016"><img height="30" src="https://user-images.githubusercontent.com/48479346/127092527-367cb1e4-699c-4dea-b5a5-94fb1bf20ae2.png"></a>&nbsp;&nbsp;
-
-# Join us
-![Discord Banner 2](https://discordapp.com/api/guilds/195531567018278913/widget.png?style=banner2)
-
-# [![RyanL-29 footer](https://user-images.githubusercontent.com/48479346/127091749-b7125235-ec58-4c42-9527-995f3ae85681.gif)](https://github.com/RyanL-29)
 <!--
 **RyanL-29/RyanL-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
